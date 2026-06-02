@@ -49,7 +49,7 @@ portfolio/
 
 ## 📷 Preview
 
-[CLick Here](https://github.com/your-username/portfolio.git)
+[CLick Here](https://github.com/dhe-astor/portfolio.git)
 
 ---
 
@@ -139,7 +139,7 @@ portfolio/
 ---
 
 ## 🌍 Live Demo
-[Click Here](https://github.com/your-username/portfolio.git)
+[Click Here](https://github.com/dhe-astor/portfolio.git)
 
 ---
 
