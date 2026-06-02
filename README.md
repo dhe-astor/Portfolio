@@ -49,7 +49,7 @@ portfolio/
 
 ## 📷 Preview
 
-[CLick Here](https://github.com/dhe-astor/portfolio.git)
+[CLick Here](https://dhe-astor.github.io/Portfolio/)
 
 ---
 
@@ -58,7 +58,7 @@ portfolio/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dhe-astor/portfolio.git
+   git clone https://dhe-astor.github.io/Portfolio/
    ```
 
 2. Open the project folder
@@ -129,7 +129,7 @@ portfolio/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/dhe-astor/portfolio.git
+   git clone https://dhe-astor.github.io/Portfolio/
    ```
 
 2. Open the project folder
@@ -139,7 +139,7 @@ portfolio/
 ---
 
 ## 🌍 Live Demo
-[Click Here](https://github.com/dhe-astor/portfolio.git)
+[Click Here](https://dhe-astor.github.io/Portfolio/)
 
 ---
 
