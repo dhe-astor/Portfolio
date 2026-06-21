@@ -72,7 +72,7 @@ portfolio/
 
 ## 🌍 Live Demo
 
-(Add GitHub Pages link here when deployed)
+[dhe-astor.github.io/Portfolio](https://dhe-astor.github.io/Portfolio/)
 
 ---
 
